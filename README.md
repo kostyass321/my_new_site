@@ -28,6 +28,9 @@ my_new_site/
 │ └── personality.jpg
 ├── README.md
 ```
+## 🌐 GitHub Pages
+Сайт доступен по адресу: https://kostyass321.github.io/my_new_site/
 
 ## 👥 Разработчики
 - kostyass321 - основная роль
+
