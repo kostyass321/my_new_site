@@ -28,3 +28,6 @@ my_new_site/
 │ └── personality.jpg
 ├── README.md
 ```
+
+## 👥 Разработчики
+- kostyass321 - основная роль
